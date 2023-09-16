@@ -1,4 +1,4 @@
-<h1>website using React.js & Tailwind CSS</h1>
+<h1>website using React.js </h1>
 
 
 ### Installation
